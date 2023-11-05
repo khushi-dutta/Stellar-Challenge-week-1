@@ -31,14 +31,6 @@ body{
     cursor: pointer;
 }
 
-.accordion .contentBx .label::before{
-    content: "+";
-    position: absolute;
-    top: 50%;
-    transform: translateY(-50%);
-    font-size: 1.5em;
-}
-
 .accordion .contentBx .content{
     position: relative;
     background: #fff;
